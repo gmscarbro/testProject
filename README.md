@@ -1,4 +1,6 @@
-# Test Calendar Project for Nutanix
-# This project serves as my introduction to Node.js, Express, and Emailjs
-# It also showcases my ability to learn things on the fly
-# And to be self-directed in my learning
+#Test Calendar Project for Nutanix
+
+This project serves as a demonstration of my ability to learn new skills on
+the fly and incorporate those skills into a functioning project.
+
+-- Mike
