@@ -1,0 +1,21 @@
+{
+  "name": "test_project",
+  "version": "1.0.0",
+  "description": "This is a test project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://www.github.com/gmscarbro/testStuff.git"
+  },
+  "author": "Mike Scarbrough",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "emailjs": "^1.0.10",
+    "express": "^4.15.3",
+    "ical-toolkit": "^1.0.9"
+  }
+}
